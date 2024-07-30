@@ -30,8 +30,5 @@ To set up the project locally:
 3. Install and activate the required plugins.
 4. Import the database and media files.
 
-## Contact
-For more information, visit the [About Us](https://www.krcollection.com/about-us) page or contact us at [contact@krcollection.com](mailto:contact@krcollection.com).
-
 ## License
 This project is licensed under the MIT License.
