@@ -21,7 +21,7 @@ KR Collection is a WordPress-based e-commerce store specializing in ladies' dres
 - **WP Mail SMTP:** Ensures email deliverability.
 
 ## How to Access
-Visit the [KR Collection website](https://www.krcollection.com) to explore the live store.
+The live hosting will be soon available.
 
 ## Installation
 To set up the project locally:
